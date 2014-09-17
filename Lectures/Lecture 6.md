@@ -19,7 +19,7 @@ Man kan jämföra ***tillexepel utbildning:***
 
 
 * ***c, Intervall skala:***
-en variabel som godtar romerska värden som varierar mellan två gränser, ***tex ålder [0,150]***
+en variabel som godtar romerska värden som varierar mellan två gränser, ***tillexempel ålder [0,150]***
 
 * ***d, Kvantskala:***  
 en variabel som tar numeriska värden och två olika mätvningar, ***tillexempel lön***
@@ -43,7 +43,9 @@ _Exempel:_
  ![image](url "stapeldiagram")
 
  * ii, Cirkeldiagram  
- ![image](url "Cirkeldiagram")  
+ ![image](https://gr-wordpress.s3.amazonaws.com/2013/10/pie-chart.png "Cirkeldiagram")
+
+   
 
 **Relativ futuestabell**
 
@@ -52,19 +54,19 @@ _Exempel:_
 |60%|40%|100%
 
 * ***forts. Diagram***
- * iii, Histogram (Kvantitetiv variabel)  
- **Ålder**  
-   * Män
-     * 52,39,22,21,26,23,22,26,23,22,33,21,32,21,22  
+ * iii, Histogram (Kvantitetiv variabel)
 
-   * Kvinnor
-     * 27,26,23,26,21,28,26,22,23,22
+||Ålder|
+|:-:|:-|
+|Män|52,39,22,21,26,23,22,26,23,22,33,21,32,21,22|
+|Kvinnor|27,26,23,26,21,28,26,22,23,22|
 
-   * Klasser
-     * 18~22 = 10
-     * 23~27 = 10
-     * 28~32 = 2
-     * 33~   = 3
+|Klasser|Antal|
+|:-:|-:|
+|18-22|10|
+|23-27|10|
+|28-32|2|
+|33-|3|
 
 ##Simpson paradox  
 _Exempel:_
@@ -104,7 +106,7 @@ Median av den undre halvan.
 Median av den övre halvan.
 
 # 5. Lådagram
-![image](url "lådagram")
+![image](http://www.webbmatte.se/bilder/4_6_3_tod.jpg "lådagram")
 
 **Extremvärden**  
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Extremv%C3%A4rden.png "Extremvärden")
