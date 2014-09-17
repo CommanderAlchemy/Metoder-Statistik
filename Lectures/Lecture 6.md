@@ -6,11 +6,17 @@ M10P2603 <br>
 [Kurssida: Metoder & Statistik](http://edu.mah.se/DA237A "Metoder för mätning av användbarhet i informationssystem")
 # Metoder & Statistik
 ### Lecture 6
+> Tidigare  
+Kursinformation, projektarbeten samt uppdelning.
+
+### <br>
+
+
 # 1. Variabel
-*  ***a, Noviaskala:***
+*  ***a, Noviaskala:***  
 en variabel som kan beskrivas med ord.
 
-* ***b, Ordinel skala:***
+* ***b, Ordinel skala:***  
 en variabel som beskrivs enbart med ord.  
 Man kan jämföra ***tillexepel utbildning:***  
   * grundskola,
@@ -18,17 +24,28 @@ Man kan jämföra ***tillexepel utbildning:***
   * högskola
 
 
-* ***c, Intervall skala:***
+### <br>
+
+
+* ***c, Intervall skala:***  
 en variabel som godtar romerska värden som varierar mellan två gränser, ***tillexempel ålder [0,150]***
 
-* ***d, Kvantskala:***  
+* ***d, Kvantskala:***
 en variabel som tar numeriska värden och två olika mätvningar, ***tillexempel lön***
+
+
+### <br>
+
 
 # 2. Diskret Kontinuerlig variabel
   * **Diskret v:**
    * Tex tärningskast 1,2,3,4,5,6
   * **Kontinuerlig v:**
    * Tex väntetid för en bus [0,10]
+
+
+### <br>
+
 
 # 3. Beskrivande statistik
 * ***a, Tabell (kvaletativ variabel)***  
@@ -40,18 +57,22 @@ _Exempel:_
 
 * ***b, Diagram***
  * i, Stapeldiagram  
- ![image](url "stapeldiagram")
+ ![image](http://web.anglia.ac.uk/numbers/common_folder/graphics/fig2_bar_chart.jpg "stapeldiagram")
 
  * ii, Cirkeldiagram  
  ![image](https://gr-wordpress.s3.amazonaws.com/2013/10/pie-chart.png "Cirkeldiagram")
+ ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Cirkeldiagram_m%C3%A4n.png)
 
-   
 
 **Relativ futuestabell**
 
 |Man | Kvinna | Totalt |
 |:-:|:-:|:-:|
 |60%|40%|100%
+
+
+#### <br>
+
 
 * ***forts. Diagram***
  * iii, Histogram (Kvantitetiv variabel)
@@ -61,12 +82,18 @@ _Exempel:_
 |Män|52,39,22,21,26,23,22,26,23,22,33,21,32,21,22|
 |Kvinnor|27,26,23,26,21,28,26,22,23,22|
 
+_Spann med 5 år_
+
 |Klasser|Antal|
 |:-:|-:|
 |18-22|10|
 |23-27|10|
 |28-32|2|
 |33-|3|
+
+
+### <br>
+
 
 ##Simpson paradox  
 _Exempel:_
@@ -78,12 +105,18 @@ _Exempel:_
 |Man|820|410|50|
 |Kvinnor|100|50|50|
 
+### <br>
+
+
 **Högskoleingenjör utbildning**
 
 ||Ansökningar|Antagna|%|
 |:-:|:-:|:-:|:-:|
 |Man|800|400|50|
 |Kvinnor|50|25|50|
+
+### <br>
+
 
 **Totalt** (Fel i tabell, kommer en updatering på itslearning)
 
@@ -92,6 +125,9 @@ _Exempel:_
 |Man|820|410|50|
 |Kvinnor|100|50|50|
 
+### <br>
+
+
 # 4. Median, kvartiler
 **Median**  
 Denna term som lisser i mitten av insamlad data som har ordnats i storlekts ordning.
@@ -99,11 +135,17 @@ Denna term som lisser i mitten av insamlad data som har ordnats i storlekts ordn
 > Från tidigare avsnitt  
 > Ställer upp siffrorna i storlektsordning och finner medianen.
 
+### <br>
+
+
 **Första kvartilen Q1**  
 Median av den undre halvan.
 
 **Tredje kvartilen Q3**  
 Median av den övre halvan.
+
+### <br>
+
 
 # 5. Lådagram
 ![image](http://www.webbmatte.se/bilder/4_6_3_tod.jpg "lådagram")
@@ -111,18 +153,34 @@ Median av den övre halvan.
 **Extremvärden**  
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Extremv%C3%A4rden.png "Extremvärden")
 
+
+### <br>
+
+
 **Gränser**  
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Gr%C3%A4nser.png "Gränser")
 
 Alla tal som ligger utanför gränserna kallas för ***extremvärden***
 
+
+### <br>
+
+
 # 6. Medelvärde, variansen, standardavikelsen
 ###### Medelvärde
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Medelv%C3%A4rde.png "Medelvärde")
 
+
+### <br>
+
+
 _Exempel:_  
 ***Medelstorlek av utbildningsprogram***  
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Medelv%C3%A4rde_0.png "Medelvärde ur exempel")
+
+
+### <br>
+
 
 ###### Variansen
 |55-52|60-52|48-52|45-52|
@@ -131,6 +189,14 @@ _Exempel:_
 |![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_55-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_60-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_48-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_45-52.png)|
 |9|64|16|49|
 
+
+### <br>
+
+
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Variansen.png)
+
+
+### <br>
+
 
 ![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Avikelser.png)
