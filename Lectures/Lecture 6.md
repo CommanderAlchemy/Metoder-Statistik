@@ -76,21 +76,17 @@ _Exempel:_
 
 **Högskoleingenjör utbildning**
 
-
-| | Ansökningar | Antagna | % |
-|:-:|:-:|:-:|
-|Man|800|400|50
-|Kvinna|50|25|50
-
+||Ansökningar|Antagna|%|
+|:-:|:-:|:-:|:-:|
+|Man|800|400|50|
+|Kvinnor|50|25|50|
 
 **Totalt**
 
-
-| | Ansökningar | Antagna | % |
-|:-:|:-:|:-:|
-|Man|820|410|50
-|Kvinnor|100|50|50
-
+||Ansökningar|Antagna|%|
+|:-:|:-:|:-:|:-:|
+|Man|820|410|50|
+|Kvinnor|100|50|50|
 
 # 4. Median, kvartiler
 **Median**  
