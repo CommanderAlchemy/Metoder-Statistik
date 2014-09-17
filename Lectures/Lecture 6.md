@@ -69,7 +69,7 @@ _Exempel:_
 
 **Engelsk Studie**
 
-|  | Ansökningar | Antagna | % |
+| - | Ansökningar | Antagna | % |
 |:-:|:-:|:-:|
 |Man|20|10|50
 |Kvinna|50|25|50
