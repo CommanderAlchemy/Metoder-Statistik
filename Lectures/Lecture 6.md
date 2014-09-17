@@ -69,12 +69,10 @@ _Exempel:_
 
 **Engelsk Studie**
 
-
-| - | Ansökningar | Antagna | % |
-|:-:|:-:|:-:|
-|Man|20|10|50
-|Kvinna|50|25|50
-
+||Ansökningar|Antagna|%|
+|:-:|:-:|:-:|:-:|
+|Man|820|410|50|
+|Kvinnor|100|50|50|
 
 **Högskoleingenjör utbildning**
 
