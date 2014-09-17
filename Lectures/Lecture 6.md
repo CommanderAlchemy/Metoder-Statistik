@@ -69,24 +69,30 @@ _Exempel:_
 
 **Engelsk Studie**
 
+
 | - | Ansökningar | Antagna | % |
 |:-:|:-:|:-:|
 |Man|20|10|50
 |Kvinna|50|25|50
 
+
 **Högskoleingenjör utbildning**
+
 
 | | Ansökningar | Antagna | % |
 |:-:|:-:|:-:|
 |Man|800|400|50
 |Kvinna|50|25|50
 
+
 **Totalt**
+
 
 | | Ansökningar | Antagna | % |
 |:-:|:-:|:-:|
 |Man|820|410|50
 |Kvinnor|100|50|50
+
 
 # 4. Median, kvartiler
 **Median**  
