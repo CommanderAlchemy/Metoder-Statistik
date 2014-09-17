@@ -8,5 +8,5 @@
 ||Ansökningar|Antagna|%|
 |:-:|:-:|:-:|:-:|
 |Man|820|410|50|
-|nul|null|null|null|
+|Kvinnor|100|50|50|
 |9|64|16|49|
