@@ -81,7 +81,7 @@ _Exempel:_
 |Man|800|400|50|
 |Kvinnor|50|25|50|
 
-**Totalt**
+**Totalt** (Fel i tabell, kommer en updatering på itslearning)
 
 ||Ansökningar|Antagna|%|
 |:-:|:-:|:-:|:-:|
@@ -104,25 +104,29 @@ Median av den övre halvan.
 # 5. Lådagram
 ![image](url "lådagram")
 
-**Extrem Värden**  
-![image](url "Extremvärden")
+**Extremvärden**  
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Extremv%C3%A4rden.png "Extremvärden")
 
 **Gränser**  
-![image](url "Gränser")
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Gr%C3%A4nser.png "Gränser")
 
 Alla tal som ligger utanför gränserna kallas för ***extremvärden***
 
 # 6. Medelvärde, variansen, standardavikelsen
 ###### Medelvärde
-![image](url "Medelvärde")
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Medelv%C3%A4rde.png "Medelvärde")
 
 _Exempel:_  
-Medelstorlek av utbildningsprogram  
-![image](url "Medelvärde_0")
+***Medelstorlek av utbildningsprogram***  
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Medelv%C3%A4rde_0.png "Medelvärde ur exempel")
 
 ###### Variansen
 |55-52|60-52|48-52|45-52|
 |:-:|:-:|:-:|:-:|
 |3|8|-4|-7|
-|nul|null|null|null| Kvadrera talen
+|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_55-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_60-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_48-52.png)|![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/sqrt_45-52.png)|
 |9|64|16|49|
+
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Variansen.png)
+
+![image](https://raw.githubusercontent.com/CommanderAlchemy/Metoder-Statistik/master/Lectures/Lecture6_images/Avikelser.png)
