@@ -7,6 +7,6 @@
 
 ||Ansökningar|Antagna|%|
 |:-:|:-:|:-:|:-:|
-|3|8|-4|-7|
+|Man|820|410|50|
 |nul|null|null|null|
 |9|64|16|49|
