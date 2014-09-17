@@ -1,6 +1,6 @@
 ***This should be markdown***
 
-| null | Ansökningar | Antagna | null
-|:-:|:-:|:-:
-|Man|820|410|50
-|Kvinnor|100|50|50
+| null | Ansökningar | Antagna | null |
+|:-:|:-:|:-:|
+|Man|820|410|50|
+|Kvinnor|100|50|50|
