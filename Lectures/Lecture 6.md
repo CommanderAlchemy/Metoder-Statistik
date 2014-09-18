@@ -11,6 +11,25 @@ Kursinformation, projektarbeten samt uppdelning.
 
 ### <br>
 
+# Index
+1. [Variabel] [1]
+2. [Diskret kontinuerlig variabel] [2]
+3. [Beskrivande statistik] [3]
+    * [Simpson Paradox] [3.1]
+4. [Median, kvartiler] [4]
+5. [Lådagram] [5]
+6. [Medelvärde, varians, standardavikelsen] [6]
+
+[1]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#1-variabe
+[2]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#2-diskret-kontinuerlig-variabel  
+[3]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#3-beskrivande-statistik  
+[3.1]:  https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#simpson-paradox
+[4]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#4-median-kvartiler
+[5]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#5-l%C3%A5dagram
+[6]:    https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture%206.md#6-medelv%C3%A4rde-variansen-standardavikelsen
+
+
+### <br>
 
 # 1. Variabel
 *  ***a, Noviaskala:***  
