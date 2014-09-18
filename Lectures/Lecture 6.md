@@ -77,10 +77,9 @@ _Exempel:_
 * ***forts. Diagram***
  * iii, Histogram (Kvantitetiv variabel)
 
-||Ålder|
-|:-:|:-|
-|Män|null|
-|Kvinnor|null|
+|Man|Ålder|
+|:-:|:-:|
+|60%|40%|
 
 ||Ålder|
 |:-:|:-|
