@@ -78,11 +78,6 @@ _Exempel:_
  * iii, Histogram (Kvantitetiv variabel)
 
 ||Ålder|
-|:-:|--:|
-|Man|null|
-|Kvinna|null|
-
-||Ålder|
 |:-:|:--|
 |Man|52,39,22,21,26,23,22,26,23,22,33,21,32,21,22|
 |Kvinnor|27,26,23,26,21,28,26,22,23,22|
