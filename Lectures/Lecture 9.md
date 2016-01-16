@@ -11,13 +11,15 @@ M10P2603 <br>
 
 # Konfidens intervall vid jämförelsestudie
 
-| Två undersökningar | storlek | medelvärde | standardavikelse
-| -- | -- | -- | --
-| | n1 | \bar x1 | s1
-| | n2 | \bar x2 | s2
+| Två undersökningar | storlek | medelvärde | standardavikelse |
+| -- | -- | -- | -- |
+| 1  | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/n_1.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/x_1.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/s_1.png?raw=true)
+| 2  | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/n_2.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/x_2.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/s_2.png?raw=true)
 
 Intervall för differens
-\bar x2 - \bar x1 + Zalpha * sqrt(S1^2/n1 + S2^2/n2)
+
+<!-- \bar x2 - \bar x1 + Zalpha * sqrt(S1^2/n1 + S2^2/n2) -->
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/intervall_diff.png?raw=true)
 
 Zalpha = {  
   1.64 90%  
@@ -35,16 +37,19 @@ Zalpha = {
 
 ***Exempel***: Är TS studeter duktigare än LS studenter?
 
-| | Personer | medelpoäng | standardavikelse
-| -- | -- | -- | --
-| **LS** | 150 | 48 | 5.7
-| | n1 | x1 | s1
+|    | Personer | medelpoäng | standardavikelse |
+| -- | -- | -- | -- |
+| **LS** | 150 | 48 | 5.7 |
+| | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/n_1.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/x_1.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/s_1.png?raw=true) |
 | | | | |
-| **TS** | 90 | 51 | 7
-| | n2 | x2 | s2
+| **TS** | 90 | 51 | 7 |
+| | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/n_2.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/x_2.png?raw=true) | ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/s_2.png?raw=true) |
 
-**Lösning 95%** -> Zalpha = 1.96 ***insättningen ger***  
-51 - 48 +/- 1.96 * sqrt(5*7^2/150 + 7^2/90)
+**Lösning 95%** -> Zalpha = 1.96
+
+***insättningen ger***  
+<!-- 51 - 48 +/- 1.96 * sqrt(5*7^2/150 + 7^2/90) -->
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/example_1_solve95%25.png?raw=true)
 
 **Intervall** [1.29, 4.71]
 
@@ -58,22 +63,22 @@ Zalpha = {
 # Hypotesprövning
 _Är en metod för att avgöra om ett påstående är `sant` || `falskt`_
 
-* **Nollhypotes H0**  
-* **Mothypotes H1**
+* **Nollhypotes ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true)**  
+* **Mothypotes ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_1.png?raw=true)**  
 
 
-|Slutsatsregel Förkasta H0 eller ej!|
+|Slutsatsregel Förkasta ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) eller ej!|
 |--|--|--  
-| Förkasta H0 | <---> | Acceptera H1
-| Förkasta ej H0 | <---> | Acceptera H0
+| Förkasta ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) | <---> | Acceptera ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_1.png?raw=true)
+| Förkasta ej ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) | <---> | Acceptera ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true)
 
 ***Exempel***: Mjölk 2L Skånemejerier  
 > Stickprov vill bekräfta att förpackningen innehåller 2L
 
-H0: En 2L flaska innehåller 2L mjölk.  
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true): En 2L flaska innehåller 2L mjölk.  
 µ = 2  
 
-H1: En 2L flaska innehåller <2 L mjölk.  
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_1.png?raw=true): En 2L flaska innehåller <2 L mjölk.  
 µ <2
 
 ***Exempel***: Bensinförbrukning för Volvo v70  
@@ -90,25 +95,29 @@ H1: Bensinförbrukning är max 0.55L/mil
 # Teststatistik
 S = standardavikelse från undersökning.  
 n = storlek av undersökning.  
-µ = Från H0  
-Medelärdet Z = (\bar x - µ0) / (S/sqrt(\bar n))
+µ = Från ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true)  
+<!-- Medelärdet Z = (\bar x - µ0) / (S/sqrt(\bar n)) -->
+Medelärdet: ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/teststatistik_medelv%C3%A4rde.png?raw=true)
 
 ***Exempel***: Mjölk 30 flaskor  
-\bar x = 1.95  
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/bar_x.png?raw=true) = 1.95  
 S = 0.1
 
 **Teststatistik:**  
-Z = (1.95 - 2) / ( 0.1 / sqrt(30) )
+<!-- Z = (1.95 - 2) / ( 0.1 / sqrt(30) ) -->
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/teststatistik_example_1_Z.png?raw=true)
 
 **Andel**  
-Z = \bar P - H0 / sqrt(H0(1-H0) / n)
+<!-- Z = \bar P - H0 / sqrt(H0(1-H0) / n) -->
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/teststatistik_example_1_andel.png?raw=true)
 
 ***Exempel***: Stöd För M,  H0 = 28%  
 Undersökning \bar P = 23.2% = 0.232  
 1500 Personer
 
 **Teststatistik**  
-Z = 0,232 - 0,28 / sqrt(0.28*(1-0,28) / 1500)
+<!-- Z = 0,232 - 0,28 / sqrt(0.28*(1-0,28) / 1500) -->
+![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/teststatistik_example2_Z.png?raw=true)
 
 # P - värdet
 Mjölk H1: µ <2 (vänster svans)  
