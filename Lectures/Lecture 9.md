@@ -67,8 +67,8 @@ _Är en metod för att avgöra om ett påstående är `sant` || `falskt`_
 * **Mothypotes ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_1.png?raw=true)**  
 
 
-|Slutsatsregel Förkasta ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) eller ej!|
-|--|--|--  
+|Slutsatsregel Förkasta ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) eller ej!| | |
+|--|--|--|
 | Förkasta ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) | <---> | Acceptera ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_1.png?raw=true)
 | Förkasta ej ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true) | <---> | Acceptera ![image](https://github.com/CommanderAlchemy/Metoder-Statistik/blob/master/Lectures/Lecture7_images/H_0.png?raw=true)
 
